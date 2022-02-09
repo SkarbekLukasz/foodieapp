@@ -14,4 +14,4 @@ Wykorzystane technologie:
 - H2 DataBase
 - Apache Tomcat
 
-- - luty 2022r. - -
+-- luty 2022r. --
